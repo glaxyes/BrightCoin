@@ -97,4 +97,4 @@ contract BrightCoin {
 
         return true;
     }
-}
+};
