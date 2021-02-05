@@ -12,7 +12,7 @@ contract BrightCoin {
     uint256 public unspent_supply = 0;
     uint256 public spendable_supply = 0;
     uint256 public circulating_supply = 0;
-    uint256 public decimals = 6;
+    uint256 public decimals = 8;
     uint256 public reward = 50000000;
     uint256 public timeOfLastHalving = now;
     uint public timeOfLastIncrease = now;
